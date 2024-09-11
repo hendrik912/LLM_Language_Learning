@@ -1,0 +1,13 @@
+
+
+__pycache__/
+results/
+
+.idea/
+
+.ipynb_checkpoints/
+.ipynb_checkpoints
+
+*.jpg
+
+*.apkg
